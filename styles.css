@@ -1,0 +1,35 @@
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.container1 {
+    display: flex;
+    justify-content: center;
+}
+
+#calculator-display {
+    flex: 1;
+}
+
+.container2 {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    /* width: 440px; */
+}
+
+.container2-1 {
+    /* border: 2px solid black;
+    background-color: grey; */
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.container2-2 {
+    /* border: 2px solid black;
+    background-color: grey; */
+    display: flex;
+    flex-wrap: wrap;
+}
+
